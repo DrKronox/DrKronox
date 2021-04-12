@@ -5,4 +5,4 @@
  <a href="https://www.instagram.com/mekarinkata_/"><img src="https://img.shields.io/badge/Instagram%20-7289DA.svg?&style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <p>
 
-![Github Stat's](https://github-readme-stats.vercel.app/api?username=DrKronox&show_icons=true&hide_title=true&theme=midnight-purple&icon_color=69d200)
+![Github Stat's](https://github-readme-stats.vercel.app/api?username=DrKronox&show_icons=true&hide_title=true&theme=midnight-purple&icon_color)
